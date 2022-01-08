@@ -8,7 +8,7 @@ Set up your Raspberry Pi and update/upgrade to the latest Raspberry Pi OS: https
 
 ### 01_SweepPanTilt.py
 Continuously sweep the pan-tilt mechanism in a sinusoidal action. <br>
-Use ctrl-q to quit.
+Use ctrl-c to quit.
 
 ### 02_SetPanTilt.py
 Set the pan-tilt mechanism to fixed positions.
